@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "scripts": {
     "start": "craco start",
     "build": "craco build",
@@ -9,6 +10,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+=======
+  "homepage": "https://justp2p.github.io/JustP2P",
+>>>>>>> c4ced2e9065f593dae7fb8f15cecbdb2605136f0
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
     "@radix-ui/react-accordion": "^1.2.8",
@@ -43,17 +47,29 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
+<<<<<<< HEAD
     "date-fns": "^3.6.0",
     "dexie": "^4.2.1",
     "dotenv": "^17.2.3",
+=======
+    "cra-template": "1.2.0",
+    "date-fns": "^4.1.0",
+    "dexie": "^4.2.1",
+>>>>>>> c4ced2e9065f593dae7fb8f15cecbdb2605136f0
     "embla-carousel-react": "^8.6.0",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.507.0",
     "next-themes": "^0.4.6",
     "peerjs": "^1.5.5",
+<<<<<<< HEAD
     "react": "^18.3.1",
     "react-day-picker": "8.10.1",
     "react-dom": "^18.3.1",
+=======
+    "react": "^19.0.0",
+    "react-day-picker": "8.10.1",
+    "react-dom": "^19.0.0",
+>>>>>>> c4ced2e9065f593dae7fb8f15cecbdb2605136f0
     "react-hook-form": "^7.56.2",
     "react-qr-code": "^2.0.18",
     "react-resizable-panels": "^3.0.1",
@@ -65,6 +81,7 @@
     "vaul": "^1.1.2",
     "zod": "^3.24.4"
   },
+<<<<<<< HEAD
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@craco/craco": "^5.9.0",
@@ -76,6 +93,14 @@
     "gh-pages": "^6.2.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17"
+=======
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test"
+>>>>>>> c4ced2e9065f593dae7fb8f15cecbdb2605136f0
   },
   "browserslist": {
     "production": [
@@ -89,5 +114,21 @@
       "last 1 safari version"
     ]
   },
+<<<<<<< HEAD
+=======
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@craco/craco": "^7.1.0",
+    "@eslint/js": "9.23.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "9.23.0",
+    "eslint-plugin-import": "2.31.0",
+    "eslint-plugin-jsx-a11y": "6.10.2",
+    "eslint-plugin-react": "7.37.4",
+    "globals": "15.15.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  },
+>>>>>>> c4ced2e9065f593dae7fb8f15cecbdb2605136f0
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
