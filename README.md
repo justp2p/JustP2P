@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Here are your Instructions
-=======
 # JustP2P
 
 **JustP2P** is a decentralized chat platform that connects people directly—no servers, no surveillance. Built on peer-to-peer tech, it’s privacy-first, open-source, and runs right in your browser.
