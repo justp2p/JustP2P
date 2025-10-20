@@ -46,4 +46,4 @@ If you like this project, star it, share it, or fork it. Every bit helps.
 
 Pull requests are welcome!  
 For major changes, please open an issue first to discuss what you’d like to improve or add.
->>>>>>> c4ced2e9065f593dae7fb8f15cecbdb2605136f0
+
