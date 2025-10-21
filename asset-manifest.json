@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/JustP2P/static/css/main.4c19dec6.css",
-    "main.js": "/JustP2P/static/js/main.3a7ff134.js",
-    "index.html": "/JustP2P/index.html",
-    "main.4c19dec6.css.map": "/JustP2P/static/css/main.4c19dec6.css.map",
-    "main.3a7ff134.js.map": "/JustP2P/static/js/main.3a7ff134.js.map"
+    "main.css": "/static/css/main.4c19dec6.css",
+    "main.js": "/static/js/main.5e57d8b3.js",
+    "index.html": "/index.html",
+    "main.4c19dec6.css.map": "/static/css/main.4c19dec6.css.map",
+    "main.5e57d8b3.js.map": "/static/js/main.5e57d8b3.js.map"
   },
   "entrypoints": [
     "static/css/main.4c19dec6.css",
-    "static/js/main.3a7ff134.js"
+    "static/js/main.5e57d8b3.js"
   ]
 }
