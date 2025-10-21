@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JustP2P/static/css/main.4c19dec6.css",
+    "main.js": "/JustP2P/static/js/main.3a7ff134.js",
+    "index.html": "/JustP2P/index.html",
+    "main.4c19dec6.css.map": "/JustP2P/static/css/main.4c19dec6.css.map",
+    "main.3a7ff134.js.map": "/JustP2P/static/js/main.3a7ff134.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c19dec6.css",
+    "static/js/main.3a7ff134.js"
+  ]
+}
